@@ -9,3 +9,9 @@ Plot learning curve of logistic regression(LR), support vector machine(SVM), neu
 
 ## Explanation of the LR_CV.ipynb、SVM_CV.ipynb、NN_CV.ipynb
 Results of logistic regression(LR), support vector machine(SVM), neural network(NN) model cross-validation and grid search
+
+## Explanation of the last.ipynb
+Training results of the three models after hyperparameter tuning
+
+## Other notes
+Due to the slow training speed of Colab, some of the code was trained on my laptop's spider software. All final results are based on the dissertation.
